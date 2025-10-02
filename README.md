@@ -1,7 +1,3 @@
-Of course. Here is a professional `README.md` file structure suitable for a GitHub repository for this project. You can copy and paste this directly into a `README.md` file.
-
------
-
 # Trading Behavior vs. Market Sentiment Analysis
 
 ## 📖 Project Objective
