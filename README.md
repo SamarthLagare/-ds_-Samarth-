@@ -86,23 +86,6 @@ To replicate this analysis, follow these steps:
 
 -----
 
-## 📂 Repository Structure
-
-```
-.
-├── data/
-│   ├── historical_data.csv
-│   └── fear_greed_index.csv
-├── images/
-│   ├── pnl_vs_sentiment.png
-│   └── ... (other saved plots)
-├── analysis.py
-├── README.md
-└── .gitignore
-```
-
------
-
 ## ⚠️ Limitations
 
   * The analysis of **leverage** was not possible as this data was not present in the provided dataset.
